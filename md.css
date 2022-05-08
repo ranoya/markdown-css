@@ -138,6 +138,15 @@ pre {
     width: 100%;
 }
 
+ol {
+    list-style-type: decimal;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+    font-family: var(--md-codefont, "'Noto Sans Mono','Courier New',Courier,monospace");
+    color: var(--md-fg, #000000);
+}
+
 .observablehq--function,
 .observablehq--inspect {
     font-family: var(--md-codefont, "'Noto Sans Mono','Courier New',Courier,monospace");
@@ -156,4 +165,31 @@ iframe {
     frameborder: 0;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    font-size: min(22px, 2.45vw);
+    line-height: min(24px, 2.51vw);
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+thead {
+    color: var(--md-cabecalho, #888888);
+    font-size: 10px;
+    line-height: 13px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+thead th,
+tbody td {
+    border-bottom: 1px solid var(--md-detalhe, #dddddd);
+}
+
+th {
+    font-weight: lighter;
+    padding-bottom: 2px;
 }
