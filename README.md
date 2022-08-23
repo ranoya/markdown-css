@@ -17,6 +17,11 @@ CSS definitions to ease the formatting of markdown into HTML.
 --md-hfont - headings font family
 --md-codefont - code font family
 --md-font - text font family
+--md-listfont - ul and ol (lists) font family
+--md-tablefont - tables font family
+--md-inlinecodebg - inline code background color
+--md-inlinecodepadding - inline code block separation
+--md-inlinecoderound - inline code block round corner
 
 Use:
 
