@@ -8,20 +8,22 @@ CSS definitions to ease the formatting of markdown into HTML.
 
 ## Global Variables
 
---md-bg - background color
---md-fg - text color
---md-code - code color
---md-h1 - headings color (all, h1-h6)
---md-mark - links and other differentiated markdown
---md-highlight - mouse over color
---md-hfont - headings font family
---md-codefont - code font family
---md-font - text font family
---md-listfont - ul and ol (lists) font family
---md-tablefont - tables font family
---md-inlinecodebg - inline code background color
---md-inlinecodepadding - inline code block separation
---md-inlinecoderound - inline code block round corner
+| -- css variable --     | -- changes in --                        |
+| ---------------------- | --------------------------------------- |
+| --md-bg                | background color                        |
+| --md-fg                | text color                              |
+| --md-code              | code color                              |
+| --md-h1                | headings color (all, h1-h6)             |
+| --md-mark              | links and other differentiated markdown |
+| --md-highlight         | mouse over color                        |
+| --md-hfont             | headings font family                    |
+| --md-codefont          | code font family                        |
+| --md-font              | text font family                        |
+| --md-listfont          | ul and ol (lists) font family           |
+| --md-tablefont         | tables font family                      |
+| --md-inlinecodebg      | inline code background color            |
+| --md-inlinecodepadding | inline code block separation            |
+| --md-inlinecoderound   | inline code block round corner          |
 
 Use:
 
