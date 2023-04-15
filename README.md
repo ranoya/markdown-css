@@ -30,7 +30,9 @@ Use:
 :root {
 
 --md-bg: black;
+
 --md-fg: #eeeeee;
+
 --md-font: Helvetica, Arial, sans-serif;
 
 }
