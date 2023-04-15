@@ -47,7 +47,7 @@ or, in your HTML:
 }
 
 </style>
-<link rel='stylesheet' typ='text/css' href='https://www.ranoya.com/Assets/JSLibs/markdown/md.css'></link>
+<link rel='stylesheet' typ='text/css' href='https://raw.githubusercontent.com/ranoya/markdown-css/master/md.css'></link>
 ```
 
 That's it.
