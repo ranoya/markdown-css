@@ -35,7 +35,8 @@ Use:
 
 ## Use
 
-Just load the CSS file from the web in this address:
+Just load the CSS file from the web in any of those addresses (same file):
+https://raw.githubusercontent.com/ranoya/markdown-css/master/md.css
 https://www.ranoya.com/Assets/JSLibs/markdown/md.css
 
 or, in your HTML:
